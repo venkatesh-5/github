@@ -5,3 +5,7 @@ is there any plans for today
 if no ...let me tell you something
 i have created new directory
 initialised git
+i am modifying the file1.txt
+this modified version of file1
+changes to be committed
+file should be staged
