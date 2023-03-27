@@ -9,3 +9,7 @@ i am modifying the file1.txt
 this modified version of file1
 changes to be committed
 file should be staged
+this is modification
+in file1.txt
+it is to practise the some git commands
+so bear it for this time
