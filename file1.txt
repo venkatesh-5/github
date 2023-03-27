@@ -1,5 +1,0 @@
-this is file1
-this is again recreated
-this is deleted
-file
-hello again
